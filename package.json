@@ -1,0 +1,11 @@
+{
+    "name": "test-docker",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./main.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.1"
+    }
+}
